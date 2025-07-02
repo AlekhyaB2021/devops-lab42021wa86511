@@ -10,7 +10,7 @@ public class App
     {
 	    
 
-// Trigger CI test
+// Trigger CI trigger test
 
         System.out.println( "Hello World!" );
     }
